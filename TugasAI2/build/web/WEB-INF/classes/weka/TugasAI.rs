@@ -1,0 +1,2 @@
+EksplorasiWEKA
+TugasAI
