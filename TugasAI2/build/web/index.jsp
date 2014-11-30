@@ -18,7 +18,7 @@
         <h1>Hasilnya : </h1>
             <%
                 news_classificator nc = new news_classificator();
-                String[] Result = news_classificator.Learn(0);
+                String[] Result = news_classificator.Learn(1);
             %>
             <p>
                 <%
